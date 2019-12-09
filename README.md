@@ -6,6 +6,12 @@ This is the code repository for [Mastering Kotlin ](https://www.packtpub.com/app
 
 **Learn advanced Kotlin programming techniques to build apps for Android, iOS, and the web**
 
+## Buy Online
+
+Mastering Kotlin is available as both a physical and e-book.  
+
+It can be purchased from [Amazon](https://amzn.to/2QB99Pq) or directly from [Packt](https://www.packtpub.com/application-development/mastering-kotlin)
+
 ## What is this book about?
 Using Kotlin without taking advantage of its power and interoperability is like owning a sports car and never taking it out of the garage. While documentation and introductory resources can help you learn the basics of Kotlin, the fact that it’s a new language means that there are limited learning resources and code bases available in comparison to Java and other established languages.
 
